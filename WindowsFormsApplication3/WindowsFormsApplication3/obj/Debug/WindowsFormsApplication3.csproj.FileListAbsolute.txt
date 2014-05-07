@@ -1,2 +1,0 @@
-\\vmware-host\Shared Folders\Bureau\GitHub\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.exe.config
-\\vmware-host\Shared Folders\Bureau\GitHub\Serenade\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.exe.config
